@@ -46,25 +46,25 @@ Data Visualization: Utilizing scatter plots, histograms, and correlation matrice
 
 ## Project Structure
 
-# Dataset Exploration:
+### Dataset Exploration:
 
 Loading the dataset and understanding its structure.
 
 Conducting descriptive statistics to gain insights into the data.
 
-# Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Visualizing the relationships between numerical features and diamond price.
 
 Formulating questions and hypotheses based on initial observations.
 
-# Analysis and Findings:
+### Analysis and Findings:
 
 Addressing research questions through statistical analysis and machine learning.
 
 Investigating the impact of numerical and non-numerical features on diamond pricing.
 
-# Conclusion:
+### Conclusion:
 
 Summarizing the key findings and insights obtained from the analysis.
 
