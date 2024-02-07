@@ -8,7 +8,7 @@ Welcome to the Diamond Value Analysis project! In this project, I delve into the
 
 The primary goal of this project is to analyze a dataset containing various attributes of diamonds, including numerical features such as carat, dimensions, and price, as well as non-numerical features like cut, color, and clarity. By leveraging exploratory data analysis (EDA), statistical analysis, and machine learning, we aim to understand the relationships between these attributes and determine their impact on diamond pricing.
 
-I strived to answer two questions:
+I wanted to answer two questions:
 
 1) is there a correlation between a diamond's dimensions and price?
 
