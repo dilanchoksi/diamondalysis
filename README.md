@@ -4,6 +4,8 @@
 
 Welcome to the Diamond Value Analysis project! In this project, I delve into the fascinating world of diamonds, exploring the factors that influence their value. Diamonds have captivated human fascination for centuries, not just for their physical properties but also for their economic and cultural significance. This project aims to unravel some of the mysteries behind diamond valuation using data science techniques.
 
+Dataset: https://www.kaggle.com/datasets/shivam2503/diamonds
+
 ## Objective
 
 The primary goal of this project is to analyze a dataset containing various attributes of diamonds, including numerical features such as carat, dimensions, and price, as well as non-numerical features like cut, color, and clarity. By leveraging exploratory data analysis (EDA), statistical analysis, and machine learning, we aim to understand the relationships between these attributes and determine their impact on diamond pricing.
